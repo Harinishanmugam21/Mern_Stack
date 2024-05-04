@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "random-words": "^2.0.1"
+  },
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "basic programs",
+  "main": "index.js",
+  "type": "commonjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
